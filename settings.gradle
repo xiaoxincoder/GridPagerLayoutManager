@@ -1,0 +1,3 @@
+include ':gridpager'
+include ':app'
+rootProject.name = "GridPagerLayoutManagerDemo"
